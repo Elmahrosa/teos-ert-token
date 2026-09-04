@@ -16,4 +16,8 @@ Core ERT token contract (SPL token on Solana).
 
 ## License
 
-MIT
+**TEOS Egypt Sovereign License (TESL)** — source-available, not open source.
+
+Governed by the International Civic Blockchain Constitution (ICBC).
+See [LICENSE](./LICENSE). Canonical text:
+https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution/blob/main/LICENSE.md
