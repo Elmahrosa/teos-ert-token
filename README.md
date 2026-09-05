@@ -14,6 +14,14 @@ Core ERT token contract (SPL token on Solana).
 - `tests/` — Unit/integration tests
 - `scripts/` — Deploy, mint, authority-revoke
 
+## Project Board
+
+Tracked on the org-level **TEOS Unified Governance Board** (alongside teos-forge
+and the Academy): https://github.com/orgs/Elmahrosa/projects/9
+
+Tracking layer only — this repository remains independent (separate history, CI,
+and access control). Deployment stays **BLOCKED** until governance ratifies.
+
 ## License
 
 **TEOS Egypt Sovereign License (TESL)** — source-available, not open source.
